@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aighootim.truckpaintingservices.co.uk/sitemap.xml
